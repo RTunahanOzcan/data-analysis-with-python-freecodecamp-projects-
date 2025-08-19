@@ -1,2 +1,2 @@
-This is the solution for Mean-Variance-Standard Deviation Calculator project of data analysis with python course.
-It takes a list with 9 elements and returns a dictionary that shows different mean, var, std, max, min and sum values.
+This repository has the solutions of Data Analysis with Python course projects from 'freecodecamp.com'.
+I hope you enjoy the improvement process of yourselves. Good luck and happy coding 😉
