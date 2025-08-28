@@ -1,5 +1,5 @@
 # Data Analysis with Python Course Projects
-This repositry has the solutions of required projects to complete course provided by freecodecamp.com
+This reposiotry has the solutions of required projects to complete course provided by freecodecamp.com
 * Used libraries: numpy, pandas, matplotlib, seaborn
 
 ## Mean-Variance-Standart Deviation Calculator 
